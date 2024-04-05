@@ -7,5 +7,6 @@ public class Student {
     public void sayHello() {
 
         System.out.println("Hi , i am student");
+        System.out.println("My name is Harsh");
     }
 }
