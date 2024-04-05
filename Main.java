@@ -11,6 +11,7 @@ public class Main {
         System.out.println("Added one more File to project");
         Student student = new Student();
         str;
+        str;
         
         student.sayHello();
     }
